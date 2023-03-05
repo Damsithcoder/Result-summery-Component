@@ -76,7 +76,7 @@ main{
     padding-right: 45px;
     
 }
-span{
+.span{
     display: flex;
     gap: 15px;
 }
